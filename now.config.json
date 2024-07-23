@@ -1,0 +1,5 @@
+{
+    "$schema": "./node_modules/@servicenow/sdk/node_modules/@servicenow/sdk-api/node_modules/@servicenow/sdk-project/now.config.schema.json",
+    "scope": "x_snc_nissan",
+    "scopeId": "e3bb46c3dc8b4ceaa7bdd949d2afe4b2"
+}
